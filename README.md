@@ -1,6 +1,10 @@
 ﻿# Glassmorphism-Calendar
 
-This webpage is designed from the help of a video tutorial from YouTube from a channel named 'Online Tutorials'
+This webpage is designed from the help of a video tutorial from YouTube from a channel named 'Online Tutorials'.
+
+It is made from the use of JavaScript Library made by @yusufshakeel 
+
+Link to Library :- https://github.com/yusufshakeel/dyCalendarJS
 
 Link of video:- https://youtu.be/0LnecKau04Y
 
